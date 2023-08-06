@@ -1,0 +1,81 @@
+
+
+1. What is Newman?
+
+A. A tool for manual testing of APIs
+B. A tool for monitoring APIs
+C. A tool for load testing APIs
+D. A tool for automating tests on APIs
+Answer: A
+
+2. Which programming languages can be used to write tests in Newman?
+
+A. Python
+B. Javascript
+C. Ruby
+D. All of the above
+Answer:  B
+
+3. What is the purpose of OAuth?  
+  
+A. To provide secure authentication for web applications and APIs
+B. To manage databases and store user data
+C. To create user interfaces for web applications
+D. To automate the testing of web applications and APIs
+Answer:  A
+
+4. What does OAuth stand for?
+
+A. Open Authentication
+B. Open Access
+C. Open Authorization
+D. Open Application
+Answer:  C 
+
+5. What output does Jenkins display after running a Newman test?
+
+A. The location of the Newman installation on the machine
+B. The Newman command that was executed
+C. The Postman collection file used for the Newman test
+D. The result of the Newman test, including any errors or failures
+Answer: D
+
+6. How do you configure a Jenkins job to run Newman tests?
+
+A. A tool for automating tests on APIs
+B. By creating a new job and configuring the job settings in the Jenkins dashboard
+C. By installing the Newman plugin for Jenkins and configuring the plugin settings
+D. By creating a new build step and choosing "Execute shell" or "Execute Windows batch command" and entering the Newman command
+Answer: D
+
+7. What is reporting in Newman?
+
+A. A front-end framework used for building user interfaces
+B. A plugin that enhances the functionality of Newman
+C. A feature that enables you to generate reports of your Postman tests
+D. A database that stores the results of your Postman tests
+Answer: C
+ 
+8. What is chaining in Postman?
+  
+A. A way to combine multiple requests into a single API call
+B. A way to send multiple API requests in a specific order
+C. A way to modify the request headers and parameters in real-time
+D. A way to store and retrieve data between requests
+Answer: B
+
+9. How can you specify the order in which requests are executed in a chain?
+
+A. By using the pm.order() method
+B. By using the | symbol
+C. By using the => operator
+D. By dragging and dropping requests in the Postman UI
+Answer: D
+   
+10. How can you pass data between requests in a chain?
+
+A. By using the pm global variable
+B. By using the {{...}} syntax
+C. By using the body() method
+D. By using the response() method
+Answer: A
